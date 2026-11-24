@@ -1,0 +1,15 @@
+import { useMutation, useQueryClient } from '@tanstack/react-query';
+import { QUERY_KEYS } from '@/lib/query/queryKeys';
+import { membersApi } from '../api/membersApi';
+
+export function useReactivateMember() {
+  const queryClient = useQueryClient();
+
+  return useMutation({
+    mutationFn: (memberId: string) => membersApi.reactivateMember(memberId),
+    onSuccess: () => {
+      queryClient.invalidateQueries({ queryKey: QUERY_KEYS.members.all });
+    },
+  });
+}
+

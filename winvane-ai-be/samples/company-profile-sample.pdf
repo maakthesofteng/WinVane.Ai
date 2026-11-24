@@ -1,0 +1,32 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 1823 >>
+stream
+BT /F1 12 Tf 14 TL 72 720 Td (Company Overview) Tj T* (Company Summary: Northstar Digital builds secure cloud software and modernizes business platforms for growing companies.) Tj T* (Website URL: https://northstar.example.com) Tj T* (Technology Stack: React, Node.js, PostgreSQL, AWS) Tj T* (Industries Served: Healthcare, Financial Services) Tj T* (Services Offered: Product Development, Cloud Migration, Data Engineering) Tj T* (Target Regions: North America, Europe) Tj T* (Company Size: 51-200 employees) Tj T* (Pricing Range: $50,000-$250,000) Tj T* (Pricing Model: Fixed price and time and materials) Tj T* (Employees) Tj T* (Employee: Jordan Lee) Tj T* (Work email: jordan.lee@northstar.example.com) Tj T* (Contact number: +1 415 555 0134) Tj T* (Job title: Chief Technology Officer) Tj T* (Employee: Morgan Patel) Tj T* (Work email: morgan.patel@northstar.example.com) Tj T* (Contact number: +1 415 555 0188) Tj T* (Job title: Delivery Director) Tj T* (Case Study: Claims Processing Modernization) Tj T* (Client: Evergreen Health Network) Tj T* (Industry: Healthcare) Tj T* (Challenge: Manual claims review created processing delays and inconsistent reporting.) Tj T* (Solution: Northstar delivered a secure cloud platform with automated workflows and real-time analytics.) Tj T* (Results: Average processing time fell by 42 percent and teams gained a unified operational dashboard.) Tj T* (Case Study: Payments Platform Cloud Migration) Tj T* (Client: Harborline Financial) Tj T* (Industry: Financial Services) Tj T* (Challenge: A legacy payments platform was costly to maintain and difficult to scale.) Tj T* (Solution: The engineering team moved services to AWS and introduced automated deployment pipelines.) Tj T* (Results: Release frequency doubled and infrastructure costs decreased by 28 percent.) Tj T* ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2186
+%%EOF
